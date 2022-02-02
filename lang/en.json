@@ -12,7 +12,7 @@
     "notFound": "❌ | **Not Found, Try Again!**",
     "notActive": "❌ | **No Active Group Call!**",
     "notPlaying": "❌ | **Nothing Is Playing!**",
-    "playing": "▶️ **[%s](%s)\n⏱ Duration: `%s`\n💬 Playing On: `%s`\n🎧 Requested By: %s**\nSupport:@musicwithalby",
+    "playing": "▶️ **[%s](%s)\n⏱ Duration: `%s`\n💬 Playing On: `%s`\n🎧 Requested By: %s**\nSupport:@MIT_support_bot\n🍁𝓦𝓲𝓽𝓱 𝔀𝓪𝓻𝓶 𝓡𝓮𝓰𝓪𝓻𝓭𝓼\n❝🇲 🇮 🇹𝑈𝑛𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'25 ❞",
     "paused": "⏸ | **Paused Stream!**",
     "resumed": "▶️ | **Resumed Stream!**",
     "muted": "🔇 | **Muted Stream!**",
